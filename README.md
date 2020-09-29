@@ -31,7 +31,9 @@
 
 <br/>
 <br/>
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
 <!--START_SECTION:activity-->
 <br>
 <details>
