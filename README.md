@@ -9,7 +9,6 @@
 - 📫 How to reach me: **abhishek.bansal.8033@gmail.com** 
 - ⚡ Fun fact: I love watch anime and read manga
 
-<!--START_SECTION:activity-->
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-display.yanki786.vercel.app/api/spotify)][spotify]
@@ -33,6 +32,8 @@
 <br/>
 <br/>
 
+<!--START_SECTION:activity-->
+<br>
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yanki786&hide=contribs,prs&count_private=true&show_icons=true&hide_border=true&custom_title=Stats" />
